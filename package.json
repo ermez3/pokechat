@@ -1,0 +1,11 @@
+{
+  "name": "pokechat",
+  "dependencies": {
+    "babel": "^5.6.4",
+    "babelify": "^6.1.2",
+    "browserify": "^10.2.4",
+    "react": "^0.13.3",
+    "superagent": "^1.2.0",
+    "uid": "0.0.2"
+  }
+}
